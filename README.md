@@ -16,4 +16,4 @@ I created a public GitHub repository, cloned it to my local machine, created the
 - edited final version manually
 
 ## Video walkthrough
-Video link will be added here after recording.
+Video link: https://youtu.be/R_mF2PnpU5Q
